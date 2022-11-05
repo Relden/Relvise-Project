@@ -516,7 +516,7 @@ li{
 }
 .who-info__item-head1::before{
    content: "";
-   background: url(/img/main/Who/1.svg) 0 0 no-repeat;
+   background: url(img/main/Who/1.svg) 0 0 no-repeat;
    width: 32px;
    height: 32px;
    position: absolute;
@@ -539,7 +539,7 @@ li{
 }
 .who-info__item-head2::before{
    content: "";
-   background: url(/img/main/Who/2.svg) 0 0 no-repeat;
+   background: url(img/main/Who/2.svg) 0 0 no-repeat;
    width: 32px;
    height: 32px;
    position: absolute;
